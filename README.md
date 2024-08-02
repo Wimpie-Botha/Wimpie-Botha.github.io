@@ -24,4 +24,7 @@ There are small arrow tabs on the desktop browser version, and you can automatic
 All of my information can be found on the website (Linkedin, Email and GitHub)
 My CV is also accessible and downloadable from the website.
 
-The menu tabs above change to a animated Hamburger menu (simple stacked line design) when viewed on a mobile device or in smaller screen sizes.
+The menu tabs above change to an animated Hamburger menu (simple stacked line design) when viewed on a mobile device or in smaller screen sizes.
+
+I initially designed and tested the website in the html-css-javas-portfolio. After it was completed I added it to this repository.
+Go to that repository to see the commit and changes history.
